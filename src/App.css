@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+
+}
+body{
+ background: #D7CFAB;
+  font-family: 'Caveat', cursive;
+}
+
+
+.Round-person-1{
+  width: 200px;
+  height: 200px;
+  background-image: url("img/Ben.jpeg");
+  background-size: cover;
+  border-radius: 50%;
+}
+.Round-person-2{
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-image: url("img/You-2.jpg");
+  border-radius: 50%;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
